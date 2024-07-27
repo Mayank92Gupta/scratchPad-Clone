@@ -1,6 +1,74 @@
-# Scratch starter project
+# ScratchPad
 
-To get started:
+## Overview
 
-- Run `npm i` to install dependencies
-- Run `npm start` and open http://localhost:3000 to see the app
+ScratchPad is an interactive tool designed to manage and manipulate objects on a canvas. It includes features for motion and appearance, with draggable functionality and a history of movements for advanced interaction.
+![alt text](https://github.com/Mayank92Gupta/ScratchPad/blob/main/public/images/gif.gif)
+
+![alt text](https://github.com/Mayank92Gupta/ScratchPad/blob/main/public/images/1.png)
+![alt text](https://github.com/Mayank92Gupta/ScratchPad/blob/main/public/images/2.png)
+![alt text](https://github.com/Mayank92Gupta/ScratchPad/blob/main/public/images/3.png)
+![alt text](https://github.com/Mayank92Gupta/ScratchPad/blob/main/public/images/4.png)
+
+# Live link :- [https://scratch-pad-eight.vercel.app/](https://mayank-scratch-pad-clone.vercel.app/)
+
+
+
+
+## Tech Stack
+
+- **ReactJS**: A JavaScript library for building user interfaces.
+- **TailwindCSS**: A utility-first CSS framework for rapid UI development.
+- **Redux**: A state management library for JavaScript apps.
+
+## Features
+
+### Motion
+
+- **Move Horizontal**: Moves the object horizontally by a specified amount.
+  
+- **Move Vertical**: Moves the object vertically by a specified amount.
+  
+- **Rotate Clockwise**: Rotates the object in a clockwise direction.
+  
+- **Rotate Anti-Clockwise**: Rotates the object in an anti-clockwise direction.
+  
+- **Go To Random Coordinate**: Moves the object to a random coordinate on the screen.
+  
+- **Draggable Functionality**: Allows users to drag objects across the canvas.
+  
+- **History of Steps (Replay)**: Stores a history of movements and actions for undo and redo functionality.
+
+### Looks
+
+- **Show Message**: Displays a message on the screen.
+  
+- **Show Sprite**: Makes the sprite visible.
+  
+- **Hide Sprite**: Makes the sprite invisible.
+
+
+## Installation
+
+To get started with ScratchPad, follow these steps:
+
+1. Clone the repository:
+
+    ```bash
+    git clone <Repo Address>
+    ```
+
+2. Navigate into the project directory:
+
+    ```bash
+    cd your-repo
+    ```
+
+3. Install the dependencies:
+
+    ```bash
+    npm install
+    npm run start
+    ```
+
+
