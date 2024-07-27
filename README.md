@@ -3,12 +3,8 @@
 ## Overview
 
 ScratchPad is an interactive tool designed to manage and manipulate objects on a canvas. It includes features for motion and appearance, with draggable functionality and a history of movements for advanced interaction.
-![alt text](https://github.com/Mayank92Gupta/ScratchPad/blob/main/public/images/gif.gif)
+![alt text](https://github.com/Mayank92Gupta/scratchPad-Clone/blob/main/public/images/ezgif-5-9b85f0536c.gif)
 
-![alt text](https://github.com/Mayank92Gupta/ScratchPad/blob/main/public/images/1.png)
-![alt text](https://github.com/Mayank92Gupta/ScratchPad/blob/main/public/images/2.png)
-![alt text](https://github.com/Mayank92Gupta/ScratchPad/blob/main/public/images/3.png)
-![alt text](https://github.com/Mayank92Gupta/ScratchPad/blob/main/public/images/4.png)
 
 # Live link :- [https://scratch-pad-eight.vercel.app/](https://mayank-scratch-pad-clone.vercel.app/)
 
