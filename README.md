@@ -6,7 +6,7 @@ ScratchPad is an interactive tool designed to manage and manipulate objects on a
 ![alt text](https://github.com/Mayank92Gupta/scratchPad-Clone/blob/main/public/images/ezgif-5-9b85f0536c.gif)
 
 
-# Live link :- [https://scratch-pad-eight.vercel.app/](https://mayank-scratch-pad-clone.vercel.app/)
+# Live link :- [https://mayank-scratch-pad-clone.vercel.app/](https://mayank-scratch-pad-clone.vercel.app/)
 
 
 
